@@ -1,0 +1,5 @@
+Git does not allow us to add (and hence, commit) empty folders to the repo. 
+
+This is a random file (could be anything, but conventionally called as .gitkeep) to force git to add this file to the repo, thereby adding this otherwise empty folder to the repo. 
+
+So, you can ignore this file and work on your assignment normally.
