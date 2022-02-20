@@ -16,7 +16,7 @@ Continue working on the assignment on Unity as you would normally do and commit 
 ### Workflow (See Git Fundamentals document on nexus for more)
 
 1) Clone the repo. 
-2) `File > Open` in your C# IDE and open the `Assignment1PartA` folder in it. 
+2) `File > Open` in your C# IDE and open the `Assignment1PartA` folder in it. Create a new c sharp project inside this folder. 
 3) Work on the part a normally, and commit + push at the end using git bash. 
 4) For part b, open Unity Hub, click `open` and select the `Assignment1PartB` folder. Let Unity build the project. 
 5) Work on the project on Unity + IDE for scripts normally and commit + push using git bash terminal. 
